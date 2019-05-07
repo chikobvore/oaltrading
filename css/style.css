@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
   Theme Name: Reveal
   Theme URL: https://bootstrapmade.com/reveal-bootstrap-corporate-template/
@@ -7,6 +8,17 @@
 
 /*--------------------------------------------------------------
 # General
+=======
+/*
+  Theme Name: Reveal
+  Theme URL: https://bootstrapmade.com/reveal-bootstrap-corporate-template/
+  Author: BootstrapMade.com
+  License: https://bootstrapmade.com/license/
+*/
+
+/*--------------------------------------------------------------
+# General
+>>>>>>> d55853d50589b45df07ff7aee5cd3d0f9895e0bb
 --------------------------------------------------------------*/
 
 body {
@@ -71,8 +83,13 @@ h6 {
   color: #fff;
 }
 
+<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Top Bar
+=======
+/*--------------------------------------------------------------
+# Top Bar
+>>>>>>> d55853d50589b45df07ff7aee5cd3d0f9895e0bb
 --------------------------------------------------------------*/
 
 #topbar {
@@ -118,8 +135,13 @@ h6 {
   border-left: 0;
 }
 
+<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Header
+=======
+/*--------------------------------------------------------------
+# Header
+>>>>>>> d55853d50589b45df07ff7aee5cd3d0f9895e0bb
 --------------------------------------------------------------*/
 
 #header {
@@ -155,8 +177,13 @@ h6 {
   margin: 0;
 }
 
+<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Intro Section
+=======
+/*--------------------------------------------------------------
+# Intro Section
+>>>>>>> d55853d50589b45df07ff7aee5cd3d0f9895e0bb
 --------------------------------------------------------------*/
 
 #intro {
@@ -266,8 +293,13 @@ h6 {
   transition-property: opacity;
 }
 
+<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Navigation Menu
+=======
+/*--------------------------------------------------------------
+# Navigation Menu
+>>>>>>> d55853d50589b45df07ff7aee5cd3d0f9895e0bb
 --------------------------------------------------------------*/
 
 /* Nav Menu Essentials */
@@ -494,11 +526,19 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
 }
 
+<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Sections
 --------------------------------------------------------------*/
 
 /* Sections Header
+=======
+/*--------------------------------------------------------------
+# Sections
+--------------------------------------------------------------*/
+
+/* Sections Header
+>>>>>>> d55853d50589b45df07ff7aee5cd3d0f9895e0bb
 --------------------------------*/
 
 .section-header {
@@ -530,7 +570,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0;
 }
 
+<<<<<<< HEAD
 /* About Section
+=======
+/* About Section
+>>>>>>> d55853d50589b45df07ff7aee5cd3d0f9895e0bb
 --------------------------------*/
 
 #about {
@@ -584,7 +628,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-bottom: 10px;
 }
 
+<<<<<<< HEAD
 /* Services Section
+=======
+/* Services Section
+>>>>>>> d55853d50589b45df07ff7aee5cd3d0f9895e0bb
 --------------------------------*/
 
 #services {
@@ -740,7 +788,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   transform: translate(-50%, -50%);
 }
 
+<<<<<<< HEAD
 /* Testimonials Section
+=======
+/* Testimonials Section
+>>>>>>> d55853d50589b45df07ff7aee5cd3d0f9895e0bb
 --------------------------------*/
 
 #testimonials {
@@ -815,7 +867,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-color: #50d8af;
 }
 
+<<<<<<< HEAD
 /* Call To Action Section
+=======
+/* Call To Action Section
+>>>>>>> d55853d50589b45df07ff7aee5cd3d0f9895e0bb
 --------------------------------*/
 
 #call-to-action {
@@ -853,7 +909,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 3px solid #50d8af;
 }
 
+<<<<<<< HEAD
 /* Our Team Section
+=======
+/* Our Team Section
+>>>>>>> d55853d50589b45df07ff7aee5cd3d0f9895e0bb
 --------------------------------*/
 
 #team {
@@ -907,7 +967,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0 2px;
 }
 
+<<<<<<< HEAD
 /* Contact Section
+=======
+/* Contact Section
+>>>>>>> d55853d50589b45df07ff7aee5cd3d0f9895e0bb
 --------------------------------*/
 
 #contact {
@@ -1015,8 +1079,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #2dc899;
 }
 
+<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Footer
+=======
+/*--------------------------------------------------------------
+# Footer
+>>>>>>> d55853d50589b45df07ff7aee5cd3d0f9895e0bb
 --------------------------------------------------------------*/
 
 #footer {
